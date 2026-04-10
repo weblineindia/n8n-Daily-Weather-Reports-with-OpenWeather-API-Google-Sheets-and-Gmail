@@ -17,7 +17,7 @@ This workflow fetches real-time weather data from the OpenWeather API, stores it
 
 ## 🛠 Requirements
 
-- **n8n account** (self-hosted or cloud)
+- **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** (self-hosted or cloud)
 - **OpenWeather API key** (free or paid)
 - **Google account** with access to:
   - Google Sheets
@@ -39,7 +39,7 @@ This workflow fetches real-time weather data from the OpenWeather API, stores it
 
 ## 🔧 How to set up?
 
-1. **Import Workflow:** Create/Open your n8n instance and upload the workflow.
+1. **Import Workflow:** Create/Open your [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi) and upload the workflow.
 2. **Connect Credentials:**
    - Google Sheets (OAuth2)
    - Gmail (OAuth2)
